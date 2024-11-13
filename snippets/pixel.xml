@@ -7,7 +7,7 @@
           review="gerrit.pixelexperience.org" />
 
   <remote name="pixel-gitlab"
-          fetch="https://gitlab.pixelexperience.org/android"
+          fetch="https://github.com/PixelExperienceArchive"
           revision="fourteen" />
 
   <remote name="pixel-devices"
